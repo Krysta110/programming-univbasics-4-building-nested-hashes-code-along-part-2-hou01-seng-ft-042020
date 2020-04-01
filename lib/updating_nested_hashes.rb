@@ -74,12 +74,12 @@ def add_characters
 #   :name => "Apothecary"
 # ]
 
-epic_tragedy = {
-  :additional_characters = [
+  add= [
     {:name => "Prince Escalus"},
     {:name => "Apothecary"}
   ]
-}
+
+  epic_tragedy[:additional_characters]= add
 
 
    # After your code, the following line will return the altered hash
