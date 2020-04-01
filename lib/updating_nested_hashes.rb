@@ -66,7 +66,7 @@ epic_tragedy[:additional_characters][1][:name] = "Apothecary"
 add = {
   :name => "Prince Escalus"
   :name => "Apothecary"
-} 
+}
 
 
 
