@@ -74,6 +74,12 @@ epic_tragedy[:additional_characters] = []
   :name => "Apothecary"
 ]
 
+epic_tragedy = {
+  :additional_characters = [
+    :name => "Prince Escalus",
+    :nme => "Apothecary"
+  ]
+}
 
 
    # After your code, the following line will return the altered hash
